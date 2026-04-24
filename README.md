@@ -1,5 +1,30 @@
-# 💫 About Me:
-## 👋 About Me<br><br>- 🌟 I'm *Madhuri*, a passionate and curious Computer Science student.<br>- 💻 Currently working as a *Frontend Developer*, building responsive and interactive web apps.<br>- 🤖 Developed multiple *Machine Learning and Deep Learning projects* solving real-world problems.<br>- 🧠 Familiar with:<br>  - *Python*<br>  - *Machine Learning*<br>  - *Deep Learning*<br>  - *AI + ML integration*<br>- 🔧 Currently learning *Backend Development* and exploring powerful *AI tools and APIs*.<br>- 🚀 Excited about the collaboration between *Artificial Intelligence and Machine Learning* in modern applications.<br>- 🤝 Always open to *collaborations, internships, and new tech challenges*.<br><br>---<br><br>> “Code. Learn. Build. Repeat.”
+## 🚀 About Me
+
+## 👋 Hi, I'm Madhuri, an AI Full Stack Developer and a recent B.Tech graduate in AI & ML.
+
+## 💡 I build intelligent, end-to-end applications using Machine Learning, Generative AI, and modern web technologies.
+
+## 🛠️ Tech Stack
+
+## Languages: Python, JavaScript, SQL
+## Frontend: React.js, Next.js, HTML, CSS
+## Backend: Flask, FastAPI, NestJS
+## AI/ML: LLMs, RAG, Deep Learning
+## Tools: Git, GitHub, Streamlit
+
+# 💼 Experience
+## AI Full Stack Developer Intern – Prodigal AI
+## Built RAG-based chatbot using LLMs, ChromaDB & Neo4j
+## Frontend & Backend Intern – Bhuvih HR Solutions
+## Developed features for AI-powered job portal & optimized APIs
+# 🚀 Projects
+## Financial Fraud Detection (Autoencoders)
+## Government Schemes RAG Chatbot
+## Sign Language Recognition System
+## AI Travel Itinerary Planner
+# 🎯 Goal
+
+## To build scalable AI products and secure a full-time role as an AI Full Stack Developer.
 
 
 ## 🌐 Socials:
